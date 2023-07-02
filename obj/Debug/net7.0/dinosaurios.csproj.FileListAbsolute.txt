@@ -1,0 +1,15 @@
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\bin\Debug\net7.0\dinosaurios.exe
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\bin\Debug\net7.0\dinosaurios.deps.json
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\bin\Debug\net7.0\dinosaurios.runtimeconfig.json
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\bin\Debug\net7.0\dinosaurios.dll
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\bin\Debug\net7.0\dinosaurios.pdb
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\dinosaurios.csproj.AssemblyReference.cache
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\dinosaurios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\dinosaurios.AssemblyInfoInputs.cache
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\dinosaurios.AssemblyInfo.cs
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\dinosaurios.csproj.CoreCompileInputs.cache
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\dinosaurios.dll
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\refint\dinosaurios.dll
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\dinosaurios.pdb
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\dinosaurios.genruntimeconfig.cache
+C:\Users\roola\OneDrive\Escritorio\Programación\Proyectos Campus\CSharp\dinosaurios\obj\Debug\net7.0\ref\dinosaurios.dll
